@@ -1,0 +1,7 @@
+C:\Users\ninni\OneDrive\Desktop\Maze Test\Maze Test\bin\Debug\Maze Test.exe.config
+C:\Users\ninni\OneDrive\Desktop\Maze Test\Maze Test\bin\Debug\Maze Test.exe
+C:\Users\ninni\OneDrive\Desktop\Maze Test\Maze Test\bin\Debug\Maze Test.pdb
+C:\Users\ninni\OneDrive\Desktop\Maze Test\Maze Test\obj\Debug\Maze Test.csprojAssemblyReference.cache
+C:\Users\ninni\OneDrive\Desktop\Maze Test\Maze Test\obj\Debug\Maze Test.csproj.CoreCompileInputs.cache
+C:\Users\ninni\OneDrive\Desktop\Maze Test\Maze Test\obj\Debug\Maze Test.exe
+C:\Users\ninni\OneDrive\Desktop\Maze Test\Maze Test\obj\Debug\Maze Test.pdb
